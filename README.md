@@ -7,3 +7,4 @@ Good Luck
 3. polynomial and linear and multivariable regression
 4. Classification using Fully connected neural network
 5. Prediction of rainfall in Australia
+6.Sentiment Analysis in Real Comments
