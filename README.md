@@ -6,3 +6,4 @@ Good Luck
 2. Decision Tree
 3. polynomial and linear and multivariable regression
 4. Classification using Fully connected neural network
+5. Prediction of rainfall in Australia
