@@ -4,5 +4,5 @@ soltanimaryam96@gmail.com
 Good Luck
 1. KNN
 2. Decision Tree
-3.polynomial and linear and multivariable regression
+3. polynomial and linear and multivariable regression
 4. Classification using Fully connected neural network
